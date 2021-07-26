@@ -1,2 +1,2 @@
 # GrazNewRadio Versorgungskarte
-update
+
